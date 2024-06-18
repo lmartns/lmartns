@@ -1,4 +1,6 @@
-![Hi there](https://media.giphy.com/media/8vc2rMUDjhy6Y/giphy.gif?cid=790b7611941ypvr0sb7b4kxifq1ga7aruylhfglwl5ebnv5x&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+<p align="center">
+  <img src="https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif?cid=ecf05e4798ehzzcsaluy4q7db387beu22ezyotx50vpbeurh&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" height="auto" />
+</p>
 
 ### 🛠️ Tecnologias & Ferramentas
 
