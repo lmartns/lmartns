@@ -1,4 +1,4 @@
-## Olá 👋
+![Hi there](https://media.giphy.com/media/Gf1RA1jNSpbbuDE40m/giphy.gif?cid=790b761199rz815d76u8dmnkjgxqaq3uzgfogrmkbxw3gtkd&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ### 🛠️ Tecnologias & Ferramentas
 
