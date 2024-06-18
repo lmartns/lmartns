@@ -1,16 +1,18 @@
-## Hi there 👋
+## Olá 👋
 
-<!--
-**lmartns/lmartns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tecnologias & Ferramentas
 
-Here are some ideas to get you started:
+- Linguagens: CSharp, java, Javascript
+- Frameworks: Dotnet, Spring
+- Ferramentas: Docker, Postman, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projetos em destaque
+
+- [API financeira](https://github.com/lmartns/FinanceApi): Finance Api é um projeto desenvolvido em CSharp, utilizando Dotnet que consiste em uma API para um sistema financeiro.
+
+### 📫 Entre em Contato
+
+- [LinkedIn](https://www.linkedin.com/in/leonardomartinsdeveloper/)
+- [Email](mailto:leonardomartins578@gmail.com)
+
+Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato se quiser colaborar em algo interessante.
