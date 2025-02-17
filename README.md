@@ -1,16 +1,17 @@
-## Hi there 👋
+### 💻 Software Developer | Specialist (TypeScript • Node.js • React)
 
-<!--
-**lmartns/lmartns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Core Stack:**  
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
+[![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)](https://nestjs.com/) 
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)](https://react.dev/)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)  
 
-Here are some ideas to get you started:
+**Proven Expertise:**  
+✅ **Backend:** RESTful APIs • Microservices Architecture • BullMQ Queues  
+✅ **Frontend:** Next.js SSR • Component Libraries (Storybook) • Responsive Design  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Beyond the Screen:**  
+🥊 Boxer
+
+**Let's Build the Future:**  
+📩 Open for cutting-edge collaborations
