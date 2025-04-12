@@ -10,8 +10,5 @@
 ✅ **Backend:** RESTful APIs • Microservices Architecture • BullMQ Queues  
 ✅ **Frontend:** Next.js SSR • Component Libraries (Storybook) • Responsive Design  
 
-**Beyond the Screen:**  
-🥊 Boxer
-
 **Let's Build the Future:**  
 📩 Open for cutting-edge collaborations
