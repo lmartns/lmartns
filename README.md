@@ -1,4 +1,4 @@
-### 💻 Software Developer | Specialist (TypeScript • Node.js • React)
+### 💻 Software Developer
 
 **Core Stack:**  
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
