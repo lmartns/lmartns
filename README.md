@@ -1,1 +1,1 @@
-Hi, my name is Leo, i am software developer (neovim btw). 
+Hi, my name is Leo, I am software developer (neovim btw). 
